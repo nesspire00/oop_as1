@@ -287,6 +287,4 @@ public class StudentTest {
             System.out.printf("The constructor caught that the student had an invalid student number, exception = \"%s\"%n", e.getMessage());
         }        
     }
-
-    
 }
